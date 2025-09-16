@@ -1,0 +1,1 @@
+Bug 1588013 - Google Maps crashes tab on version 68, 69, and developer edition (70) for Linux
